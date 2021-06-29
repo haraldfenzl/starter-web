@@ -3,7 +3,7 @@
 
 # TEAM
 
-    Harald Fenzl hari@fenzl.com asdf
+    Harald Fenzl hari@fenzl.com asdfjklö
 
 # THANKS
 
