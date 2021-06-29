@@ -7,4 +7,4 @@ This great repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 ## copyright notice
-(c) harald
+(c) harald fenzl
