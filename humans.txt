@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Harald Fenzl hari@fenzl.com asdf
 
 # THANKS
 
